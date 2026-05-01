@@ -1,0 +1,5 @@
+2026-05-01 15:03:37,454 | INFO | Logger working!
+2026-05-01 15:03:58,935 | INFO | Logger working!
+2026-05-01 15:05:14,697 | INFO | Logger is working
+2026-05-01 15:32:09,851 | INFO | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-01 15:32:14,179 | INFO | Order Response: {}
